@@ -36,6 +36,7 @@ jobs:
           - 'mdk_nrf52840_dongle'
           - 'nice_nano'
           - 'nrf52840_m2'
+          - 'nrfmicro'
           - 'ohs2020_badge'
           - 'particle_argon'
           - 'particle_boron'
